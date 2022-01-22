@@ -29,3 +29,51 @@
     border-top: 10px double #8c8b8b;
     background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
   }
+  #early-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #early-img{
+    width:250px;
+    height:250px;
+  }
+  #militia-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #british-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #british-img{
+    width:250px;
+    height:250px;
+  }
+  #revolution-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #revolution-img{
+    width:250px;
+    height:250px;
+  }
+  #president-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #president-img{
+    width:250px;
+    height:250px;
+  }
+  #retirement-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #final-title{
+    font-family:"lucidia handwriting", cursive;
+    text-align: center;
+  }
+  #final-img{
+    width:250px;
+    height:250px;
+  }
